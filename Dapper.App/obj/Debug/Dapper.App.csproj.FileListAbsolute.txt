@@ -1,0 +1,11 @@
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\Dapper.App.exe.config
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\db\dappertest.mdf
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\db\dappertest_log.ldf
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\Dapper.App.exe
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\Dapper.App.pdb
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\Dapper.Contrib.dll
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\Dapper.dll
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\bin\Debug\Dapper.xml
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\obj\Debug\Dapper.App.csprojResolveAssemblyReference.cache
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\obj\Debug\Dapper.App.exe
+I:\luiz.araujo\Documents\Visual Studio 2015\DapperTest\DapperTest\Dapper.App\obj\Debug\Dapper.App.pdb
