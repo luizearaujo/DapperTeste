@@ -1,2 +1,2 @@
 # DapperTeste
-Teste de utilização do Dapper
+Exemplo de utilização do Dapper
